@@ -1,4 +1,4 @@
-package edu.upc.dsa;
+package edu.upc.dsa.minim;
 
 import org.junit.Test;
 

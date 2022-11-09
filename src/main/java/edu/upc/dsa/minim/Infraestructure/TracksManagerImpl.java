@@ -1,6 +1,6 @@
-package edu.upc.dsa;
+package edu.upc.dsa.minim.Infraestructure;
 
-import edu.upc.dsa.models.Track;
+import edu.upc.dsa.minim.Domain.Repository.TracksManager;
 
 import java.util.LinkedList;
 import java.util.List;

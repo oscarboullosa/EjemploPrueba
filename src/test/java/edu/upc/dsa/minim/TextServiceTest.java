@@ -1,4 +1,4 @@
-package edu.upc.dsa;
+package edu.upc.dsa.minim;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
